@@ -1,0 +1,15 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/NetCoreApplicationUnitTest/FileContentIndex/33141ffd-5a87-477c-bc16-859d4617bc6b.vsidx
+/.vs/NetCoreApplicationUnitTest/FileContentIndex/9f35553a-83e3-4e5d-9928-8c60477d2c84.vsidx
+/.vs/NetCoreApplicationUnitTest/FileContentIndex/1cfd6322-b0da-416a-9f92-d5f1e9daf156.vsidx
+/NetCoreApplicationUnitTest.Testing/obj/Debug/net6.0
+/.vs/NetCoreApplicationUnitTest/v17/TestStore/0/testlog.manifest
+*.testlog
+/.vs/NetCoreApplicationUnitTest/FileContentIndex/e4290b26-8b33-424e-a7b6-bc57158e8d09.vsidx
+/.vs/NetCoreApplicationUnitTest/FileContentIndex/c402492e-a83d-4f58-9c5f-b530991054e7.vsidx
+/.vs/NetCoreApplicationUnitTest/FileContentIndex/a133d822-25b4-4c1c-8b5b-95612e49a11e.vsidx
+*.vsidx
+/.vs/NetCoreApplicationUnitTest/v17/.suo
