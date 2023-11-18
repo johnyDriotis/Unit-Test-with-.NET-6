@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6B8chgdm3GtkoupsmmwIFWrdoHZZOTIlcF55HChdzDM9vQ0R3XzLLTdpi/BOZYMvWZnSkmUJiFwA6r9NZAyqbA==",
+  "dgSpecHash": "yxP7xv3RS5yd4WNVrYF8mCNBv1tkBF9R/FTFGhuJTpLxp7+iZ1sCao0j5KfE41la7MV77O1R0NxkqP2fa/8Jkg==",
   "success": true,
-  "projectFilePath": "C:\\Repository\\Net\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.Testing\\NetCoreApplicationUnitTest.Testing.csproj",
+  "projectFilePath": "C:\\Repository\\Net\\Unit-Test-with-.NET-6\\NetCoreApplicationUnitTest.Testing\\NetCoreApplicationUnitTest.Testing.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\johny\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\johny\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

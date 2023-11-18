@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repository\\Net\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj": {}
+    "C:\\Repository\\Net\\Unit-Test-with-.NET-6\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj": {}
   },
   "projects": {
-    "C:\\Repository\\Net\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj": {
+    "C:\\Repository\\Net\\Unit-Test-with-.NET-6\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repository\\Net\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj",
+        "projectUniqueName": "C:\\Repository\\Net\\Unit-Test-with-.NET-6\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj",
         "projectName": "NetCoreApplicationUnitTest",
-        "projectPath": "C:\\Repository\\Net\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj",
+        "projectPath": "C:\\Repository\\Net\\Unit-Test-with-.NET-6\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest.csproj",
         "packagesPath": "C:\\Users\\johny\\.nuget\\packages\\",
-        "outputPath": "C:\\Repository\\Net\\NetCoreApplicationUnitTest\\NetCoreApplicationUnitTest\\obj\\",
+        "outputPath": "C:\\Repository\\Net\\Unit-Test-with-.NET-6\\NetCoreApplicationUnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\johny\\AppData\\Roaming\\NuGet\\NuGet.Config",
